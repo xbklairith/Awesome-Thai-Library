@@ -19,7 +19,7 @@
 
 ## Text processor
 #### library สำหรับประมวลผลภาษาไทย 
-- [libthai](http://linux.thai.net/projects/libthai) linux package สำหรับจัดการกับภาษาไทย
+- [libthai](https://linux.thai.net/projects/libthai) linux package สำหรับจัดการกับภาษาไทย
 - [Wordcut](https://github.com/veer66/wordcut) [node.js] ตัดคำไทย
 - [PhlongTaIam](https://github.com/veer66/PhlongTaIam) [PHP] ตัดคำไทย
 - [thsplitlib](https://github.com/moohooooo/thsplitlib) [PHP] ตัดคำไทย

@@ -5,6 +5,7 @@
 - [Nectec Innovation](https://www.nectec.or.th/innovation/innovation-software/)
 - [ThaiNationalIDCard](https://github.com/chakphanu/ThaiNationalIDCard) อ่านบัตรประชาชน
 - [Thai-Citizen-ID-Validator](https://github.com/codeforthailand/Thai-Citizen-ID-Validator) ตรวจสอบเลขบัตรประชาชน
+- [JQuery Thailand](https://github.com/earthchie/jquery.Thailand.js) ตัวช่วย กรอกที่อยู่สำหรับการทำ Auto Complete ของไทยโดยไม่ต้องใช้ Server Side
 
 ## Data source
 - [jquery.Thailand.js](https://github.com/earthchie/jquery.Thailand.js) Auto complete ที่อยู่ในประเทศไทย

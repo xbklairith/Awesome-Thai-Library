@@ -5,9 +5,9 @@
 - [Nectec Innovation](https://www.nectec.or.th/innovation/innovation-software/)
 - [ThaiNationalIDCard](https://github.com/chakphanu/ThaiNationalIDCard) อ่านบัตรประชาชน
 - [Thai-Citizen-ID-Validator](https://github.com/codeforthailand/Thai-Citizen-ID-Validator) ตรวจสอบเลขบัตรประชาชน
+- [JQuery Thailand](https://github.com/earthchie/jquery.Thailand.js) ตัวช่วย กรอกที่อยู่สำหรับการทำ Auto Complete ของไทยโดยไม่ต้องใช้ Server Side
 
 ## Data source
-- [jquery.Thailand.js](https://github.com/earthchie/jquery.Thailand.js) Auto complete ที่อยู่ในประเทศไทย
 - [Thai-zip-geolocation](https://github.com/rathpanyowat/Thai-zip-code-latitude-and-longitude) พิกัดละติจูด ลองจิจูด ของรหัสไปรษณีย์
 - [Thailand-Address](https://github.com/Cerberus/Thailand-Address) ข้อมูลที่อยู่ sql, json
 - [Thai CG Bank](https://github.com/crishoj/thcg)

@@ -9,7 +9,7 @@
 - [ภาษีไปไหน](https://govspending.data.go.th) - ระบบข้อมูลการใช้จ่ายภาครัฐ
 
 ## Data source
-- [data.go.th](https://data.go.th) - ข้อมูลจากหน่วยงานรัฐ รวมทั้งข้อมูลทางสถิติ
+- [data.go.th](https://data.go.th/Datasets.aspx?AspxAutoDetectCookieSupport=1) - ข้อมูลจากหน่วยงานรัฐ รวมทั้งข้อมูลทางสถิติ
 - [Thai-zip-geolocation](https://github.com/rathpanyowat/Thai-zip-code-latitude-and-longitude) - พิกัดละติจูด ลองจิจูด ของรหัสไปรษณีย์
 - [Thailand-Address](https://github.com/Cerberus/Thailand-Address) - ข้อมูลที่อยู่ sql, json
 - [Thai CG Bank](https://github.com/crishoj/thcg)

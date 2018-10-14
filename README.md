@@ -15,7 +15,7 @@
 - [Thai CG Bank](https://github.com/crishoj/thcg)
 - [พจนานุกรม](https://raw.githubusercontent.com/korakot/thainlp/master/royin_dict_2542.tsv) - ใช้ข้อมูลจาก [e4thai](http://www.e4thai.com/e4e/images/program/royal_thai_dictionary_2542.zip)
 - [word dic](https://gist.github.com/anonymous/36568e5aaa73790e718757ff5f481afe) 
-- [Best I Corpus](https://www.nectec.or.https://govspending.data.go.thth/corpus/index.php?league=pm) - Corpus จาก Nectec
+- [Best I Corpus](https://www.nectec.or.th) - Corpus จาก Nectec
 - [HSE Corpus](http://web-corpora.net/ThaiCorpus/) - รวบรวมและจัดทำขึ้นโดย HSE School of Linguistics จากประเทศรัสเซีย
 
 

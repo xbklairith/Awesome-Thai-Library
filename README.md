@@ -28,3 +28,4 @@
 - [CutKum](https://github.com/pucktada/cutkum) [Python] ตัดคำไทยด้วย RNN-LSTM บน tensorflow
 - [pythaiwordcut](https://github.com/narongdejsrn/) [Python] ตัดคำภาษาไทย Maximum Matching algorithm
 - [jtcc](https://github.com/wittawatj/jtcc) ตัดกลุ่มตัวอักษรตามกฎภาษาไทย
+- [DeepCut](https://github.com/rkcosmos/deepcut) [Python] ตัดคำไทยด้วย Convolutional Neural Networks

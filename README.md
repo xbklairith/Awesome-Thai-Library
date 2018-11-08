@@ -1,5 +1,7 @@
 # Awesome Thai library
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+> รวบรวมไลบราลี่ต่าง ๆ ที่เขียนด้วยคนไทยเพื่อคนไทย
 
 ## Tools 
 - [Nectec Innovation](https://www.nectec.or.th/innovation/innovation-software/)

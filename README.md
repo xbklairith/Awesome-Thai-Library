@@ -16,10 +16,13 @@
 - [Address & Geography](#address--geography)
 - [ID & Tax Validation](#id--tax-validation)
 - [Payments (PromptPay)](#payments-promptpay)
+- [Finance & Banking](#finance--banking)
 - [Date & Buddhist Calendar](#date--buddhist-calendar)
 - [Number & Baht Text](#number--baht-text)
 - [Fonts](#fonts)
+- [Others](#others)
 - [Tools](#tools)
+- [Related Lists](#related-lists)
 
 ## NLP Toolkits
 #### ชุดเครื่องมือประมวลผลภาษาไทยแบบครบวงจร
@@ -113,6 +116,8 @@
 - [geothai](https://github.com/GeoThai/npm-packages) `[JS]` แพ็กเกจเข้าถึงข้อมูลภูมิศาสตร์ไทยแบบละเอียด
 - [thai-address-database](https://github.com/Sellsuki/thai-address-database) `[JS]` ฐานข้อมูลที่อยู่ไทยฝั่ง client พร้อมค้นหาจังหวัด/อำเภอ/รหัสไปรษณีย์
 - [react-thailand-address-typeahead](https://github.com/zapkub/react-thailand-address-typeahead) `[React]` คอมโพเนนต์ autocomplete ที่อยู่ไทย
+- [thai-data](https://github.com/niawjunior/thai-data) `[JS]` ข้อมูลตำบล/อำเภอ/จังหวัด (77 จังหวัด) อ้างอิงรหัสไปรษณีย์ โดยไม่ใช้ server
+- [thailand_gis](https://github.com/prasertcbs/thailand_gis) แผนที่ประเทศไทย (shapefile) แยกจังหวัด/อำเภอ/ตำบล
 
 ## ID & Tax Validation
 #### ตรวจสอบเลขบัตรประชาชนและเลขประจำตัวผู้เสียภาษี
@@ -130,6 +135,14 @@
 - [promptpay-qr](https://github.com/dtinth/promptpay-qr) `[JS]` สร้าง payload QR พร้อมเพย์ที่ถูกอ้างอิงมากที่สุด
 - [promptpay-qr-php](https://github.com/farzai/promptpay-qr-php) `[PHP]` สร้าง QR พร้อมเพย์
 - [promptparse-go](https://github.com/sirilerklab/promptparse-go) `[Go]` สร้าง/ถอดรหัส QR พร้อมเพย์/EMVCo
+- [pypromptpay](https://github.com/wannaphong/pypromptpay) `[Python]` สร้าง QR Code พร้อมเพย์
+
+## Finance & Banking
+#### ธนาคาร สลิป และตลาดหุ้นไทย
+
+- [thanakan](https://github.com/codustry/thanakan) `[Python]` อินเทอร์เฟซเชื่อมต่อ API ธนาคารไทย (KBANK, SCB) พร้อมตรวจสอบสลิป
+- [slipverify](https://github.com/maythiwat/slipverify) `[TypeScript]` SDK ตรวจสอบสลิปโอนเงินธนาคาร/e-wallet ไทยจาก QR
+- [ezyquant](https://github.com/ezyquant/ezyquant) `[Python]` ไลบรารี backtesting หุ้นไทย (SET) แบบ Pythonic
 
 ## Date & Buddhist Calendar
 #### วันที่และปฏิทินพุทธศักราช
@@ -156,8 +169,21 @@
 - [Fontsource (Thai)](https://github.com/fontsource/fontsource) self-host ฟอนต์ไทยโอเพนซอร์สผ่าน npm (`@fontsource/sarabun`, `kanit`, `prompt`, `noto-sans-thai`, ฯลฯ)
 - [@ibm/plex-sans-thai](https://www.npmjs.com/package/@ibm/plex-sans-thai) ฟอนต์ Plex Sans Thai อย่างเป็นทางการจาก IBM (looped + non-looped)
 
+## Others
+#### เครื่องมือไทยอื่น ๆ ที่ไม่จำกัดเฉพาะด้านภาษา
+
+- [PDPA-Consent](https://github.com/iamapinan/PDPA-Consent) `[WordPress]` ปลั๊กอินขอความยินยอมตาม พ.ร.บ. คุ้มครองข้อมูลส่วนบุคคล (PDPA)
+- [easylist-thailand](https://github.com/easylist-thailand/easylist-thailand) รายการกรองโฆษณา (adblock) สำหรับเว็บไซต์ไทย
+- [howtotax](https://github.com/taepras/howtotax) เครื่องมือแสดงภาพการคำนวณภาษีเงินได้บุคคลธรรมดาแบบขั้นบันได
+- [covidthailand](https://github.com/djay/covidthailand) รวมและเผยแพร่ข้อมูลโควิด-19 ของประเทศไทยจากหลายแหล่ง
+
 ## Tools
 #### เครื่องมือและบริการอื่น ๆ
 
 - [Nectec Innovation](https://www.nectec.or.th/innovation/innovation-software/)
 - [ภาษีไปไหน](https://govspending.data.go.th) ระบบข้อมูลการใช้จ่ายภาครัฐ
+
+## Related Lists
+#### รายการ awesome อื่น ๆ ที่เกี่ยวข้อง
+
+- [awesome-thai-dev](https://github.com/unnawut/awesome-thai-dev) รวมไลบรารี บทความ และทรัพยากรสำหรับนักพัฒนาภาษาไทย

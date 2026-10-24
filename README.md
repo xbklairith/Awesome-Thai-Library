@@ -71,6 +71,7 @@
 - [Thonburian Whisper](https://github.com/biodatlab/thonburian-whisper) `[Python]` โมเดลรู้จำเสียงพูด (ASR) ภาษาไทยบนพื้นฐาน Whisper
 - [wav2vec2-large-xlsr-53-th](https://huggingface.co/airesearch/wav2vec2-large-xlsr-53-th) โมเดล ASR ภาษาไทยโดย AIResearch
 - [Pathumma Audio / F5-TTS](https://huggingface.co/nectec) โมเดลด้านเสียงและสังเคราะห์เสียงภาษาไทยโดย NECTEC (สวทช.)
+- [Paxa TTS](https://paxalabs.com/th/text-to-speech) API แปลงข้อความเป็นเสียงพูดไทย อังกฤษ และจีนกลาง (50 เสียง ทุกเสียงพูดได้ทั้งสามภาษา รวมถึงประโยคที่พูดหลายภาษาปนกัน) และ [API ถอดเสียง](https://paxalabs.com/th/speech-to-text) (research preview) โดย Paxa Labs — บริการเสียค่าใช้จ่าย มีเครดิตทดลองใช้ฟรี
 
 ## OCR
 #### อ่านตัวอักษรภาษาไทยจากภาพ
@@ -78,6 +79,7 @@
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR) `[Python]` OCR หลายภาษารวมถึงภาษาไทย ใช้งานง่าย
 - [Typhoon OCR](https://github.com/scb-10x/typhoon-ocr) `[Python]` OCR ภาษาไทยด้วยโมเดล Typhoon โดย SCB 10X
 - [Thai-TrOCR](https://huggingface.co/openthaigpt/thai-trocr) โมเดล OCR ภาษาไทยแบบ TrOCR โดย OpenThaiGPT
+- [Paxa OCR](https://paxalabs.com/th/ocr) API อ่านใบเสร็จ ใบกำกับภาษี และแบบฟอร์มภาษาไทย ออกมาเป็น Markdown โดย Paxa Labs — บริการเสียค่าใช้จ่าย มีเครดิตทดลองใช้ฟรี
 
 ## Datasets & Corpora
 #### ชุดข้อมูลและคลังข้อความภาษาไทย
@@ -182,6 +184,7 @@
 
 - [Nectec Innovation](https://www.nectec.or.th/innovation/innovation-software/)
 - [ภาษีไปไหน](https://govspending.data.go.th) ระบบข้อมูลการใช้จ่ายภาครัฐ
+- [Paxa Translate](https://paxalabs.com/th/translation) API แปลจาก 14 ภาษา (เช่น อังกฤษ จีน ญี่ปุ่น เกาหลี) เป็นภาษาไทย โดย Paxa Labs — บริการเสียค่าใช้จ่าย มีเครดิตทดลองใช้ฟรี
 
 ## Related Lists
 #### รายการ awesome อื่น ๆ ที่เกี่ยวข้อง
